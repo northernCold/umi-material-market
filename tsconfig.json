@@ -20,6 +20,7 @@
   "include": [
     "mock/**/*",
     "src/**/*",
+    "types/**/*",
     "config/**/*",
     ".umirc.ts",
     "typings.d.ts"
